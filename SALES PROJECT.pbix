@@ -1,6 +1,9 @@
 Sales Dashboard Summary – Power BI
-The Sales Dashboard provides a comprehensive overview of key sales performance metrics, enabling effective data-driven decision-making. The dashboard is designed with interactive features and visual elements to enhance user experience and data analysis efficiency. Key components include:
-•	Slicers: Multiple slicers are used to filter data dynamically by parameters such as Supervisor, enabling focused and granular analysis across different dimensions.
+The Sales Dashboard provides a comprehensive overview of key sales performance metrics, enabling effective data-driven 
+decision-making. The dashboard is designed with interactive features and visual elements to enhance user experience and data 
+analysis efficiency. Key components include:
+•	Slicers: Multiple slicers are used to filter data dynamically by parameters such as Supervisor, enabling focused and granular 
+analysis across different dimensions.
 •	Pie Chart: Visualizes Total Sales by Brand, providing a clear comparison of brand-wise sales contributions.
 •	Column Chart: Displays Quantity Sold by Category, offering insights into product category performance and inventory movement.
 •	KPI Cards: Highlight critical performance indicators, including:
